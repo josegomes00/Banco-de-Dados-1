@@ -1,0 +1,16 @@
+Uma empresa de Streaming de Vídeo deseja elaborar um sistema para controlar suas atividades e clientes. O objetivo é que atenda as mais importantes áreas da empresa.
+
+REQUISITOS:
+
+1- Controle de acesso, cadastro, plano e pagamento mensal de cada usuário.
+2- Emissão de boletos ou codigos Qr/Pix para pagamento.
+3- Armazenamento de Filmes e/ou Séries no sistema.
+4- Filtragem de busca por palavras chaves, de forma otimizada para o usuário.
+5- Emissão de relatório mensal e geral da plataforma (APENAS PARA DESENVOLVEDORES).
+6- Desenvolvimento de design da plataforma para despertar interesse ao cliente de buscar mais conteúdo para assistir.
+7- Prévia automática de filmes ou séries que o usuário fica 3 segundos olhando.
+8- Criação de categorias de filmes/séries.
+9- Filtragem por categorias, melhor avaliação, tempo de duração e produzidos pela plataforma.
+10- Aba do usuário para alteração de plano, cancelamento de plano, pagamento, trocar senha e/ou e-mail.
+11- Criação de diversos perfis em apenas um usuário, para uso familiar.
+12- Abas de funcionalidade inteligente(MENUS) na plataforma.
